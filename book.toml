@@ -1,0 +1,8 @@
+[book]
+authors = ["xd"]
+language = "zh-cn"
+multilingual = false
+src = "src"
+title = "baseProject-backend-quickStart"
+[output.html.playground]
+editable = true
