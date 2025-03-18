@@ -10,16 +10,6 @@
 
 这是基于`code-review`初步整理出来的一些条目：
 
-
-<!-- ```java,editable
-
-public class Main{
-        public static void main(String[] args) {
-        System.out.println("hello world");
-    }
-}
-``` -->
-
 ```rust,editable
 fn main() {
     let number = 5;
