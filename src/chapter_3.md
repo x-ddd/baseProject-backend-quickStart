@@ -37,3 +37,8 @@
 ## PlumeLog
 
 ![plume log](/image/plume.png)
+
+## 返回参数示例
+
+2025-03-18 09:37:14.550 [INFO ] io.bm.framework.log.BmLogAop: 接口日志: 
+{"duration":"19ms","requestUrl":"/sysMenu/selectModifyCheck","success":false,"module":"菜单模块","requestMethod":"POST","errorMessage":"该菜单已配置完成，如把菜单类型改为目录，则会把配置完成的数据删除，请谨慎操作！","description":"查询目录改菜单功能","methodName":"selectModifyCheck","requestIp":"172.16.0.162","className":"io.bm.modules.sys.controller.SysMenuController","params":{"param":{"menuId":"1850727595533725696","systemId":"1207142670867730434"}}}
